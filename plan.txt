@@ -3,6 +3,7 @@ My project plan:
 - Do research
 - Read a book
 - Conduct interview
+- Read another book
 - Do requirements analysis
 - Do Use Case analysis
 - Do implementation
